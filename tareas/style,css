@@ -1,0 +1,7 @@
+body{background-color:#1900ff;}
+  p {color: #f80808; font-size: 40;}
+  h1 {color: #3d76d9;}
+  h2 {color: #ff00ff;}
+  h3 {color: #9900ff;}
+  #parr1{color:#ffa600}
+  .centrar{text-align: center; color:#3cff00}
